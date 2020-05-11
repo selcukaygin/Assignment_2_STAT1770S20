@@ -1,0 +1,151 @@
+census_year,state_fips_code,total_family_income,age,sex,race_general,marital_status,total_personal_income,percent_family_income
+2000,Alabama,5500,73,Female,Black,Divorced,3000,54.54545455
+2000,Alabama,63820,40,Male,White,Married/spouse present,47950,75.13318709
+2000,Arizona,45000,48,Male,Japanese,Married/spouse present,45000,100
+2000,Arizona,0,67,Female,White,Widowed,0,0
+2000,Arizona,46800,53,Female,White,Married/spouse absent,30000,64.1025641
+2000,Arizona,30000,60,Female,White,Widowed,30000,100
+2000,Arkansas,10940,6,Female,Black,Never married/single,0,0
+2000,California,82300,58,Female,Chinese,Widowed,0,0
+2000,California,193000,72,Male,Chinese,Married/spouse present,20000,10.3626943
+2000,California,36100,18,Female,Other,Married/spouse present,0,0
+2000,California,102000,60,Female,Other,Married/spouse present,0,0
+2000,California,18000,24,Male,Other,Never married/single,3600,20
+2000,California,60000,31,Male,Other,Married/spouse present,36000,60
+2000,California,21800,6,Male,Other Asian or Pacific Islander,Never married/single,0,0
+2000,California,34850,41,Male,Other Asian or Pacific Islander,Married/spouse present,30000,86.08321377
+2000,California,162600,45,Male,Other Asian or Pacific Islander,Married/spouse present,160000,98.40098401
+2000,California,62400,4,Male,Two major races,Never married/single,0,0
+2000,California,21000,3,Female,White,Never married/single,0,0
+2000,California,67500,3,Female,White,Never married/single,0,0
+2000,California,378200,52,Female,White,Married/spouse present,0,0
+2000,California,99600,8,Male,White,Never married/single,0,0
+2000,California,44000,26,Female,White,Married/spouse present,1000,2.272727273
+2000,California,156000,65,Female,White,Married/spouse present,10000,6.41025641
+2000,California,79000,26,Female,White,Never married/single,25000,31.64556962
+2000,California,35000,28,Female,White,Married/spouse present,15000,42.85714286
+2000,California,62000,47,Female,White,Never married/single,34000,54.83870968
+2000,California,77700,52,Male,White,Married/spouse present,45000,57.91505792
+2000,California,47300,43,Female,White,Married/spouse present,28000,59.19661734
+2000,California,7400,19,Female,White,Never married/single,5600,75.67567568
+2000,California,130000,62,Male,White,Married/spouse present,115000,88.46153846
+2000,California,65000,52,Male,White,Married/spouse present,58000,89.23076923
+2000,California,10200,75,Female,White,Never married/single,10200,100
+2000,California,14100,22,Male,White,Never married/single,14100,100
+2000,Colorado,26700,30,Female,American Indian or Alaska Native,Never married/single,26700,100
+2000,Colorado,12900,48,Male,White,Divorced,100,0.775193798
+2000,Connecticut,51000,52,Male,White,Divorced,51000,100
+2000,Delaware,46200,85,Female,White,Widowed,9100,19.6969697
+2000,District of Columbia,125680,16,Male,White,Never married/single,17190,13.67759389
+2000,District of Columbia,30000,27,Female,White,Never married/single,30000,100
+2000,Florida,17300,21,Male,Black,Never married/single,4800,27.74566474
+2000,Florida,60000,54,Female,Black,Married/spouse present,40000,66.66666667
+2000,Florida,23000,6,Female,White,Never married/single,0,0
+2000,Florida,57200,31,Male,White,Married/spouse present,20000,34.96503497
+2000,Florida,23000,60,Female,White,Married/spouse present,11800,51.30434783
+2000,Florida,61300,52,Male,White,Married/spouse present,35000,57.09624796
+2000,Florida,49000,31,Male,White,Married/spouse present,28000,57.14285714
+2000,Florida,48000,55,Male,White,Married/spouse present,36000,75
+2000,Florida,60000,55,Male,White,Married/spouse present,53000,88.33333333
+2000,Florida,23000,33,Female,White,Never married/single,23000,100
+2000,Florida,31600,80,Female,White,Widowed,31600,100
+2000,Georgia,47400,40,Male,Black,Married/spouse present,23300,49.15611814
+2000,Georgia,35000,27,Male,Black,Never married/single,35000,100
+2000,Georgia,42524,39,Male,White,Never married/single,10424,24.51321607
+2000,Hawaii,44410,54,Female,Chinese,Married/spouse present,34600,77.91038054
+2000,Illinois,40600,37,Male,Other,Married/spouse present,40600,100
+2000,Illinois,42000,15,Male,White,Never married/single,0,0
+2000,Illinois,88000,20,Female,White,Married/spouse present,5000,5.681818182
+2000,Illinois,158000,39,Male,White,Married/spouse present,50000,31.64556962
+2000,Illinois,64890,48,Male,White,Never married/single,63000,97.08737864
+2000,Illinois,13000,87,Female,White,Married/spouse absent,13000,100
+2000,Illinois,13000,23,Female,White,Never married/single,28000,215.3846154
+2000,Indiana,8000,85,Male,Black,Widowed,8000,100
+2000,Indiana,78700,37,Male,Other Asian or Pacific Islander,Married/spouse present,39920,50.72426938
+2000,Indiana,67300,7,Male,White,Never married/single,0,0
+2000,Indiana,25000,70,Female,White,Widowed,15800,63.2
+2000,Indiana,29340,57,Female,White,Married/spouse absent,29340,100
+2000,Iowa,35320,6,Female,White,Never married/single,0,0
+2000,Iowa,14300,61,Female,White,Divorced,14300,100
+2000,Kansas,5800,21,Female,White,Never married/single,484,8.344827586
+2000,Kentucky,100000,37,Male,Black,Married/spouse absent,100000,100
+2000,Kentucky,74200,66,Female,White,Married/spouse present,23700,31.94070081
+2000,Kentucky,30100,29,Male,White,Married/spouse present,24000,79.73421927
+2000,Louisiana,500,10,Male,Black,Never married/single,0,0
+2000,Louisiana,54090,31,Male,White,Married/spouse present,6000,11.09262341
+2000,Louisiana,146500,74,Male,White,Married/spouse present,104800,71.53583618
+2000,Louisiana,8100,93,Female,White,Widowed,8100,100
+2000,Maryland,95500,2,Female,White,Never married/single,0,0
+2000,Maryland,45400,29,Female,White,Married/spouse present,14000,30.83700441
+2000,Maryland,42960,40,Male,White,Never married/single,44000,102.4208566
+2000,Massachusetts,33000,8,Female,Black,Never married/single,0,0
+2000,Massachusetts,89100,75,Female,White,Married/spouse present,60900,68.35016835
+2000,Massachusetts,60700,36,Male,White,Married/spouse present,60000,98.84678748
+2000,Michigan,87880,16,Female,White,Never married/single,480,0.546199363
+2000,Michigan,24900,71,Male,White,Married/spouse present,18900,75.90361446
+2000,Minnesota,52500,16,Male,White,Never married/single,0,0
+2000,Minnesota,55600,26,Female,White,Married/spouse present,34100,61.33093525
+2000,Minnesota,17000,69,Female,White,Widowed,17000,100
+2000,Mississippi,57700,45,Female,Black,Married/spouse present,0,0
+2000,Mississippi,3300,3,Male,Black,Never married/single,0,0
+2000,Missouri,54000,41,Female,Black,Never married/single,54000,100
+2000,Nevada,23000,28,Male,Other Asian or Pacific Islander,Never married/single,23000,100
+2000,New Jersey,46600,54,Female,Black,Married/spouse present,23000,49.35622318
+2000,New Jersey,72020,25,Male,Two major races,Never married/single,24500,34.01832824
+2000,New Jersey,54240,38,Male,White,Divorced,8840,16.2979351
+2000,New Mexico,94400,12,Female,White,Never married/single,0,0
+2000,New York,43000,40,Female,Black,Married/spouse present,0,0
+2000,New York,62820,19,Male,Black,Never married/single,720,1.146131805
+2000,New York,40400,46,Female,Black,Married/spouse present,14200,35.14851485
+2000,New York,34900,36,Female,Black,Married/spouse present,19900,57.02005731
+2000,New York,48400,24,Female,Chinese,Married/spouse present,0,0
+2000,New York,68020,2,Female,Chinese,Never married/single,0,0
+2000,New York,0,28,Male,White,Separated,0,0
+2000,New York,37000,72,Female,White,Widowed,17300,46.75675676
+2000,Ohio,13100,11,Female,Black,Never married/single,0,0
+2000,Ohio,19604,50,Female,Black,Widowed,19604,100
+2000,Ohio,80000,33,Female,White,Married/spouse present,40000,50
+2000,Ohio,10400,75,Female,White,Widowed,10400,100
+2000,Ohio,22000,37,Male,White,Never married/single,22000,100
+2000,Ohio,12600,65,Male,White,Divorced,12600,100
+2000,Ohio,61700,57,Male,White,Married/spouse present,61700,100
+2000,Oklahoma,119000,48,Male,White,Married/spouse present,59000,49.57983193
+2000,Oklahoma,100000,45,Female,White,Married/spouse present,50000,50
+2000,Oregon,13800,9,Female,White,Never married/single,0,0
+2000,Oregon,627300,10,Male,White,Never married/single,0,0
+2000,Pennsylvania,6500,36,Male,Black,Married/spouse absent,6500,100
+2000,Pennsylvania,42300,3,Male,White,Never married/single,0,0
+2000,Pennsylvania,60300,41,Female,White,Married/spouse present,9100,15.09121061
+2000,Pennsylvania,18600,61,Female,White,Never married/single,6700,36.02150538
+2000,Pennsylvania,44000,32,Female,White,Married/spouse present,21000,47.72727273
+2000,Pennsylvania,103000,43,Male,White,Married/spouse present,68000,66.01941748
+2000,South Carolina,29600,7,Male,Two major races,Never married/single,0,0
+2000,South Carolina,22000,4,Female,White,Never married/single,0,0
+2000,South Carolina,86720,60,Male,White,Married/spouse present,24100,27.79059041
+2000,South Carolina,54000,26,Female,White,Married/spouse present,23000,42.59259259
+2000,South Carolina,5000,40,Male,White,Divorced,5000,100
+2000,Tennessee,45800,27,Male,White,Never married/single,12800,27.94759825
+2000,Texas,9200,0,Male,Black,Never married/single,0,0
+2000,Texas,37500,49,Male,Black,Married/spouse absent,0,0
+2000,Texas,90,36,Male,Black,Never married/single,90,100
+2000,Texas,0,52,Female,White,Widowed,0,0
+2000,Texas,9300,15,Female,White,Never married/single,0,0
+2000,Texas,21500,12,Male,White,Never married/single,0,0
+2000,Texas,199000,14,Male,White,Never married/single,0,0
+2000,Texas,237000,45,Male,White,Married/spouse present,155000,65.40084388
+2000,Texas,4600,21,Female,White,Never married/single,4600,100
+2000,Texas,13000,20,Female,White,Never married/single,13000,100
+2000,Texas,27000,29,Male,White,Never married/single,27000,100
+2000,Texas,55000,44,Male,White,Divorced,55000,100
+2000,Virginia,15000,60,Male,Black,Widowed,15000,100
+2000,Virginia,55400,12,Male,White,Never married/single,0,0
+2000,Virginia,39370,47,Male,White,Married/spouse present,19800,50.29210058
+2000,Virginia,18000,36,Male,White,Married/spouse present,18000,100
+2000,Washington,0,39,Male,American Indian or Alaska Native,Never married/single,0,0
+2000,Washington,23600,2,Female,Other Asian or Pacific Islander,Never married/single,0,0
+2000,Washington,48200,71,Male,White,Married/spouse present,42600,88.38174274
+2000,Wisconsin,175000,61,Male,White,Married/spouse present,55000,31.42857143
+2000,Wisconsin,45000,29,Female,White,Married/spouse present,20000,44.44444444
+2000,Wisconsin,72520,31,Male,White,Married/spouse present,39510,54.48152234
+2000,Wisconsin,34500,63,Male,White,Divorced,34500,100
+2000,Wyoming,146000,12,Female,White,Never married/single,0,0
